@@ -1,0 +1,32 @@
+aid: imagga
+name: Imagga
+description: "Image Recognition Solutions like Tagging, Visual Search, NSFW moderation"
+url: https://imagga.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Machine Learning"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Machine Learning
+  - Public APIs
+apis:
+  - name: Imagga
+    description: "Image Recognition Solutions like Tagging, Visual Search, NSFW moderation"
+    humanURL: https://imagga.com/
+    baseURL: https://imagga.com/
+    tags:
+      - Machine Learning
+    properties:
+      - type: Documentation
+        url: https://imagga.com/
+common:
+  - type: Website
+    url: https://imagga.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
